@@ -18,7 +18,7 @@ def using_shift(array)
   array = using_shit.using_shift
 end
 
-def using_insert(array)
+
   
 
   
